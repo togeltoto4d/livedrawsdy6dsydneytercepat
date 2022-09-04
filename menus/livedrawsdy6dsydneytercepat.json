@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle livedrawsdy6dsydneytercepat",
+        "command": "livedrawsdy6dsydneytercepat:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "livedrawsdy6dsydneytercepat",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "livedrawsdy6dsydneytercepat:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
